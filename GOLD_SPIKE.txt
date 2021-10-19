@@ -1,0 +1,2 @@
+The gold spike mechanic of this game is enemy clones that follow your movements after you collect a gem.
+They trace your path and you must avoid them.

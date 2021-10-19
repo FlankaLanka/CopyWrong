@@ -1,0 +1,6 @@
+Collect gem sound - http://freesoundeffect.net/tags/item-pickup
+Complete level sound - http://freesoundeffect.net/sound/game-win-bell-sound-effect
+Lose level sound - http://freesoundeffect.net/sound/failing-game-01-sound-effect
+BGM - https://opengameart.org/content/platformer-game-music-pack (Intro theme)
+bush sound - https://www.fesliyanstudios.com/royalty-free-sound-effects-download/footsteps-on-grass-284
+All sprites - https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
